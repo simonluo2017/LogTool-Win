@@ -1,9 +1,9 @@
 ﻿<?xml   version="1.0" encoding="utf-8"   ?>
-<Manifest version="1">
+<Manifest version="2">
   <CheckInterval>900</CheckInterval>
-  <RemoteConfigUri>https://raw.githubusercontent.com/simonluo2017/ShenYo-Return/master/update.xml</RemoteConfigUri>
+  <RemoteConfigUri>https://raw.githubusercontent.com/simonluo2017/LogTool-Win/master/update.xml</RemoteConfigUri>
   <SecurityToken>2408AB1B-D454-4DCB-B031-42E185C4B27F</SecurityToken>
-  <BaseUri>https://raw.githubusercontent.com/simonluo2017/ShenYo-Return/master/</BaseUri>
+  <BaseUri>https://raw.githubusercontent.com/simonluo2017/LogTool-Win/master/</BaseUri>
   <Payload>LogTool-Win.zip</Payload>
   <StartUpDir>LogTool-Win</StartUpDir>  
   <StartUpExe>LogTool-Win\LogTool.exe</StartUpExe>
